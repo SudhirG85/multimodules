@@ -13,7 +13,7 @@
     <module>module2</module>
   </modules>
   <scm>
-    <developerConnection>scm:git:file:///D:/githubrepos/multimodules/.git</developerConnection>
+    <developerConnection>scm:git:https://github.com/SudhirG85/multimodules.git</developerConnection>
   </scm>
   
   <build>
