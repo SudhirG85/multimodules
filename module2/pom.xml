@@ -4,11 +4,11 @@
   <parent>
     <groupId>io.jitpack</groupId>
     <artifactId>example-root</artifactId>
-    <version>5.1-SNAPSHOT</version>
+    <version>5.2-SNAPSHOT</version>
   </parent>
   <groupId>io.jitpack</groupId>
   <artifactId>module2</artifactId>
-  <version>5.1-SNAPSHOT</version>
+  <version>5.2-SNAPSHOT</version>
   <name>module2</name>
   <url>http://maven.apache.org</url>
   <properties>
@@ -18,7 +18,7 @@
     <dependency>
       <groupId>io.jitpack</groupId>
       <artifactId>module1</artifactId>
-      <version>5.1-SNAPSHOT</version>
+      <version>5.2-SNAPSHOT</version>
     </dependency>      
     <dependency>
       <groupId>junit</groupId>
