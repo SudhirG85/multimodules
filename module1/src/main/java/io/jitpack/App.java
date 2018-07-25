@@ -2,6 +2,7 @@ package io.jitpack;
 
 /**
  * Hello world!
+ test
  *
  */
 public class App 
